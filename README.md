@@ -72,5 +72,3 @@ The following testing types were performed as part of this project:
 ## Conclusion
 This project demonstrates hands-on experience in **manual testing of a real-world mobile application**, including test planning, execution, defect reporting, and quality assessment following industry best practices.
 
-## Conclusion
-This project demonstrates hands-on experience in **manual testing of a real-world mobile application**, including test planning, execution, defect reporting, and quality assessment following industry best practices.
